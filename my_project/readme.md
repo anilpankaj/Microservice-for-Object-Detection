@@ -3,7 +3,7 @@
 This project comprises two main components:
 
 1. **UI Backend Service**: Accepts image input from the user.
-2. **AI Backend Service**: Uses YOLOv8 for object detection and returns results in a structured JSON format.
+2. **AI Backend Service**: Uses YOLOv8 for object detection and returns results in a structured JSON format and predicted bounding boxes.
 
 
 
