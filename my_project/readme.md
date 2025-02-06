@@ -21,7 +21,7 @@ Follow these steps to set up the project:
 
 1. Clone the repository:
    
-   git clone <repository_url>
+   git clone https://github.com/anilpankaj/Microservice-for-Object-Detection.git
    
 2. Navigate to the project directory:
    
