@@ -12,6 +12,9 @@ class DetectionResult(BaseModel):
     labels: List[str]
     scores: List[float]
 
+#download the yolov8n.pt file from the given url
+# https://huggingface.co/Ultralytics/YOLOv8/tree/main
+
 # Load the YOLOv8 model
 model = YOLO("yolov8n.pt")
 
